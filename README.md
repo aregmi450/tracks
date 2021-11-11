@@ -7,4 +7,4 @@ I learnt to use different react native modules while workinng on this project.
 Few screenshots of the project on deployment are posted below: 
 
 ![image](https://user-images.githubusercontent.com/46434570/141292409-2ee8e1e8-1cae-410c-8d6c-9c075f42dd7e.png)
-![image](https://user-images.githubusercontent.com/46434570/141292428-c05c5191-d010-4cac-b559-013d8a78829e.png)
+
