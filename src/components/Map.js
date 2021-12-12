@@ -33,11 +33,6 @@ const Map = () => {
 
         <Polyline coordinates={locations.map(loc => loc.coords)} />
         </MapView>
-
-
-
-
-
     );
 };
 
